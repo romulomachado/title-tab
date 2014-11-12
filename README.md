@@ -9,7 +9,7 @@
 1. Clone this repository to `/path/to/.oh-my-zsh/custom/plugins` (usually it is on `~/.oh-my-zsh`)
 
   ```bash
-  $ git clone repository ~/.oh-my-zsh/custom/plugins
+  $ git clone git@github.com:romulomachado/title-tab.git ~/.oh-my-zsh/custom/plugins
   ```
 
 2. Go to `iTerm > Preferences... > Appearance` and uncheck all the checkboxes from **Window & Tab Titles** section.
