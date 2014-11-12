@@ -1,6 +1,6 @@
 # title-tab for iTerm2 + oh-my-zsh
 
-This plugin sets the tab title to `current folder (git-branch)` if you're on a git repository or `current folder`.
+> This plugin sets the tab title to `current folder (git-branch)` if you're on a git repository or `current folder` if you're not.
 
 ![title tab working](http://i.imgur.com/9nNCNIT.png)
 
